@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+ultralytics
+paddleocr
+paddlepaddle
+pandas
+pyzbar
+numpy
